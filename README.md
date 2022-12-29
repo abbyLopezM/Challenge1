@@ -12,16 +12,21 @@ The project is a website so we only need to deploy it. We can open the code deve
 ## Usage
 The project is meant to provide a website that is accesible and can be used on the internet by different people. Please see thwe following image using the path provided to view the result of how the website should look.
 
-(assets/images/01-html-css-git-homework-demo.png)
+## Images
+![Result Page](/assets/images/01-html-css-git-homework-demo.png)
 
 
 ## License
 
 MIT License
 
+## Badges
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 ## How to Contribute
 
-Other developers can contribute by creating more concise alt attributes or creating a cleaner css
+Other developers can contribute by creating more concise alt attributes or creating a cleaner css.
 
 ## Notes
 
